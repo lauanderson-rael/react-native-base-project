@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "app-shopping-list",
-    "slug": "app-shopping-list",
+    "name": "app-base-rn",
+    "slug": "app-base-rn",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "appshoppinglist",
+    "scheme": "app-base-rn",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
